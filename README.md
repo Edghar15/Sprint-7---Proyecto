@@ -4,3 +4,5 @@ python -m venv vehicles_env
 vehicles_env\Scripts\activate 
 
 pip install pandas plotly-express streamlit nbformat
+
+pip list
